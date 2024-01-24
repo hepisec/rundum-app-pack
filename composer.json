@@ -1,0 +1,22 @@
+{
+    "name": "rundum/app-pack",
+    "type": "symfony-pack",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hendrik Pilz",
+            "email": "hepisec@gmail.com"
+        }
+    ],
+    "require": {
+        "scheb/2fa-bundle": "^6.12",
+        "scheb/2fa-google-authenticator": "^6.12",
+        "symfony/apache-pack": "^1.0",
+        "symfony/webpack-encore-bundle": "^2.1"
+    },
+    "require-dev": {
+        "dama/doctrine-test-bundle": "^8.0",
+        "friendsofphp/php-cs-fixer": "^3.48",
+        "zenstruck/foundry": "^1.36"
+    }
+}
