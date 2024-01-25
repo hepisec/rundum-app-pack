@@ -13,6 +13,7 @@
         "friendsofphp/php-cs-fixer": "*",
         "scheb/2fa-bundle": "*",
         "scheb/2fa-google-authenticator": "*",
+        "stof/doctrine-extensions-bundle": "*",
         "symfony/apache-pack": "*",
         "symfony/webpack-encore-bundle": "*",
         "zenstruck/foundry": "*"
