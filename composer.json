@@ -17,6 +17,7 @@
         "symfony/apache-pack": "*",
         "symfony/webpack-encore-bundle": "*",
         "symfony/uid": "*",
+        "symfonycasts/verify-email-bundle": "*",
         "zenstruck/foundry": "*"
     },
     "require-dev": {
