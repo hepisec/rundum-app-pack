@@ -16,6 +16,7 @@
         "stof/doctrine-extensions-bundle": "*",
         "symfony/apache-pack": "*",
         "symfony/webpack-encore-bundle": "*",
+        "symfony/uid": "*",
         "zenstruck/foundry": "*"
     },
     "require-dev": {
